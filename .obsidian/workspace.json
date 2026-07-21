@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3d80b1a27ad699b0",
+        "id": "47c0065dab53d3ba",
         "type": "tabs",
         "children": [
           {
-            "id": "22f5c39380d1e8f0",
+            "id": "a81e3fe7457cb037",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "0f9c00c40ef2c2bb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Sin nombre/Sin título.md",
-                "bFile": "Sin nombre/Sin título.md",
-                "aRef": ""
+                "file": "Sin nombre/Titulazo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Sin título  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Titulazo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71118f4f1db392c4",
+  "active": "a81e3fe7457cb037",
   "lastOpenFiles": [
+    "dndVault/Sin título.md",
+    "dndVault/Sin título.base",
+    "dndVault",
+    "Sin nombre/Titulazo.md",
+    "Ejemplo 1.md",
+    "Ejemplo 2.md",
     "Sin nombre/Sin título.md",
     "Sin título.canvas",
     "Sin nombre",
